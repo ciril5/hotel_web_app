@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;600;700;900&display=swap');
+
+*{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    box-sizing: border-box;
+ 
+}
+
+html, body  {
+  overflow-x: hidden;
+}
+a{
+    color: black;
+}
+
+f
+
+.select-bgcolor{
+    background: rgb(221, 221, 0) !important;
+    border-radius: 0.4rem;
+}
+
+
+/* .accordion-item {
+    background-color: #fff;
+    border:#fff !important; 
+} */
+
+/* 
+.card :hover{
+    border: 1px solid rgba(0, 0, 0, 0.125);
+
+
+} */
+
+
+/* gao hotel page */
+
+.bsb-overlay{
+    background-repeat: no-repeat;
+     width: 100vw;
+    height: 650px;
+}
+
+.details-text{
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #8d5757;
+
+}
+.anchor-bcolor{
+    background-color:#8d5757 !important; 
+    color: white !important;
+    text-decoration: none !important;
+    padding:0.5rem 4rem;
+    /* border-radius:0.3rem; */
+}
+.anchor-bcolor-white{
+    background-color:#ffffff !important; 
+    color: rgb(0, 0, 0) !important;
+    text-decoration: none !important;
+    padding:0.5rem 4rem;
+    border:1px solid #8d5757 ;
+    /* border-radius:0.3rem; */
+}  
+
+
+
+.details-para{
+    font-size: 1.1rem;
+    font-weight: 600;
+
+}
+
+.details-link{
+    font-size: 0.9rem;
+    color: #8d5757;
+    font-weight: 400;
+    
+}
+
+
+
+
+/* guest room */
+
+
+
+.bgcolor-box{
+    background-color:#8d5757 !important; 
+    color: white !important;
+    text-decoration: none !important;
+    padding:0.4rem 0.2rem;
+    
+
+}
+
+.box-para{
+    font-size: 0.7rem;
+}
+/* 
+.room-card-title{
+    font-size: 1.3rem !important;
+    font-weight: 900 !important;
+} */
+
+
+.booking-btn{
+    color: #fff;
+    background-color: #8d5757;
+    border-color:#8d5757;
+    border: 1px solid transparent;
+    padding: 0.5rem 3rem;
+}
+
+.booking-btn:hover{
+    background-color: #8d5757;
+    border-color:#8d5757;
+
+}
+.booking-btn:focus{
+    background-color: #7e4545;
+    border-color:#8d5757;
+
+}
+
+.hidden {
+    display: none;
+}
